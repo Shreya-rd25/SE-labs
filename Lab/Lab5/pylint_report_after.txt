@@ -1,0 +1,6 @@
+﻿************* Module pharmacy_manager
+pharmacy_manager.py:145:0: R0911: Too many return statements (7/6) (too-many-return-statements)
+
+------------------------------------------------------------------
+Your code has been rated at 9.94/10 (previous run: 9.87/10, +0.06)
+
